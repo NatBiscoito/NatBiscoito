@@ -21,8 +21,8 @@
 
 🌻 Stats:
 
-  [![Nat GitHub Stat's](https://github-readme-stats.vercel.app/api?username=NatBiscoito&theme=dracula&show_icons=true)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBiscoito&theme=dracula&show_icons=true)]
+  ![Nat GitHub Stat's](https://github-readme-stats.vercel.app/api?username=NatBiscoito&theme=dracula&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBiscoito&theme=dracula&show_icons=true)
 
 <div>
 
