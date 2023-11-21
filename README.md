@@ -1,6 +1,6 @@
 ## Hello I'm NatBiscoito 🍪
 
-*I'm currently starting to work with programming, I'm interested In game development and I want to make some plugins to certain games.*
+*I'm currently starting to work with programming, I'm interested In game development and UX UI Design*
 
 <img align=center width="600" height="250" src="https://media.discordapp.net/attachments/1000243321060470894/1173088033738862592/70826360a72047abc1ff324e7df77b65.gif">
 
