@@ -6,7 +6,7 @@
 
 ##
 
-<div> 🌼 I’m currently learning Front-End languages </div>
+<div> I’m currently learning Front-End languages </div>
 <br>
 <div>
 
@@ -19,14 +19,14 @@
 
 <br>
 
-🌻 **Stats:**
+**Stats:**
 ##
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatBiscoito&theme=dracula&show_icons=true,prs)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBiscoito&theme=dracula&show_icons=true)
 
 <div>
 
-🍀 <b> <u> Social Media/Contacts: </u></b>
+<b> <u> Social Media/Contacts: </u></b>
 
   <a href=https://discordapp.com/users/811831137705525299><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" align=center style width="30" height="30" title="Discord"></a>
   <a href=https://twitter.com/natbiscoita><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" align=center width="30" height="30" title="Twitter"></a>
@@ -34,11 +34,3 @@
   <a href=https://www.reddit.com/user/NatBiscoito><img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" align=center width="30" height="30" title="Reddit"></a>
   <a href=https://br.pinterest.com/NatBiscoito/><img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" align=center width="30" height="30" title="Pinterest"></a>
 </div>
-
-
-
-
-## Other Informations
-
-- 🌹 Pronouns: She/Her
-- 🍒 Fun fact: I love Music and Art
