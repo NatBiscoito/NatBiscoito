@@ -3,12 +3,12 @@
 - **I Just started my way to be a programmer, I love Game Developing and many more about computing**
 - **Owner of BiscoitoSMP and other projects**
 
-## 🎓 Technology's I'm Working/Learning with
+## 🎓 Technology's I'm Working/Learning
 
 > - <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript"/><img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="HTML"/><img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="CSS"/> Javascript, HTML & CSS
 > - <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailWind"/> TailwindCSS
 > - <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/> React
-> - <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"/> MySQL 
+> - <img align=center height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"/> MySQL
 
 ## 🌐 Contacts:
 
