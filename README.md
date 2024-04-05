@@ -1,7 +1,7 @@
 ## Welcome to Nat's github 👋
 
 - **I Just started my way to be a programmer, I love Game Developing and many more about computing**
-- Owner of BiscoitoSMP and other projects
+- **Owner of BiscoitoSMP and other projects**
 
 ## 🎓 Technology's I'm Working/Learning 
 
