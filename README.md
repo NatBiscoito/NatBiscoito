@@ -10,4 +10,4 @@
 
 ## 📞 Contact Me:
  - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" align=center width="20" height="20" title="Email"> **Email:** __natsukigu729@gmail.com__
- - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" align=center style width="20" height="20" title="Discord"> **Discord:** <a href=https://discordapp.com/users/811831137705525299>NatBiscoito</a>
+ - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" align=center style width="20" height="20" title="Discord"> **Discord:** <a href=https://discordapp.com/users/811831137705525299>**natbiscoito**</a>
