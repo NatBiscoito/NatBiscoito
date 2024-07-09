@@ -1,4 +1,4 @@
-## Welcome to Nat's github <img src="https://media.discordapp.net/attachments/1248878829406130217/1257324434252103750/BiscoitoSMP.png?ex=6683fe21&is=6682aca1&hm=562edf23e3d4a38e9508c3ab30895555896fd63f1e93466f2c95182355030e7f&=&format=webp&quality=lossless&width=701&height=701" align=center style width="30" height="30" title="Cookie">
+## Welcome to Nat's github <img src="https://media.discordapp.net/attachments/1248878829406130217/1257324434252103750/BiscoitoSMP.png?ex=668e8a21&is=668d38a1&hm=48dbe12f1f08e02f4ab0dabb3b229ee4a37ee1d4ffbc842051d5432f2d7d81af&=&format=webp&quality=lossless&width=701&height=701" align=center style width="30" height="30" title="Cookie">
 
  - Fullstack Dev
  - Game Dev
